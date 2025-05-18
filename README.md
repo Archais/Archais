@@ -1,6 +1,6 @@
 # Hi, I'm Andrew 👋🏻
 
-I'm a software developer building practical tools under the name **[Thomson Softworks](https://thomsonsoftworks.com)**.
+I'm a software developer building practical tools under the name **[Thomson Softworks](https://www.thomsonsoftworks.com)**.
 
 ### 🚀 Projects
 - **Timestamp Buddy** – Create Discord-friendly timestamps with ease. Fully offline.

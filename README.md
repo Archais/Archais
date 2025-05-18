@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Andrew 👋
 
-<!--
-**Archais/Archais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer building practical tools under the name **[Thomson Softworks](https://thomsonsoftworks.com)**.
 
-Here are some ideas to get you started:
+### 🚀 Projects
+- **Timestamp Buddy** – Create Discord-friendly timestamps with ease. Fully offline.
+- *(More projects coming soon)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack
+- **Languages:** Dart, Python, JavaScript, HTML/CSS, C++, GDScript (quite new to this)
+- **Frameworks:** Flutter, Django, ERPNext (Frappe), Godot
+
+### 💼 What I'm working on
+- Offline-first mobile tools
+- ERP and business process automation
+- Trying my hand at IoT development

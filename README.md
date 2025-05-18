@@ -1,4 +1,4 @@
-# Hi, I'm Andrew 👋
+# Hi, I'm Andrew 👋🏻
 
 I'm a software developer building practical tools under the name **[Thomson Softworks](https://thomsonsoftworks.com)**.
 
